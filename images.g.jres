@@ -1,0 +1,17 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAADAzMzMzMwMAMzMzMzMzAzAz//8zMzMAMDMzMzMzMwAwMzMzMzMzAzAzMzMzMzMAMDMzMzMzMwAwMzMzMzMzAzAzMzMzMzMAMDP//zMzMwAAMzMzMzMzAwAwMzMzMzMDAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Ghost"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAPD//w8AAADwX1VV9Q8AAF9VVVVV9QDwVVVVVVVVD/BVVVVVVVUPX1VVVVVVVfVfVVVVVVVV9V9VVVVVVVX1X1VV9VVVVfVfVVUPX1VV9V9VVQ9fVVX18FVVD/BVVQ/wVfUAAF9VDwBfDwAAX/UAAPAAAADwDwAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Packman"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
